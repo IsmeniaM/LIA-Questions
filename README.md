@@ -84,6 +84,7 @@ TypeScript is a superset of JavaScript, that is, a set of tools and more efficie
 }
 </ul>
 
-<p>What is a user Story?</p>
-User Stories are written specifications of how a person would use a product's functionality.
-
+<p> 8. What is a user Story?</p>
+User Stories are written specifications of how a person would use a product's functionality. <br>
+a. As a user I have to be able to Log in and Create a new account. When I created the account I have to be able to log in and save my password. 
+<p> ![Figma Exempel](skrivbord/Skärmavbild 2023-01-10kl.16.24.53.jpg)
