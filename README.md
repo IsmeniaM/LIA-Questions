@@ -82,7 +82,8 @@ TypeScript is a superset of JavaScript, that is, a set of tools and more efficie
   id: number;
   name: string;  
 }
-  <li>Fourth item</li>
 </ul>
 
+<p>What is a user Story?</p>
+User Stories are written specifications of how a person would use a product's functionality.
 
