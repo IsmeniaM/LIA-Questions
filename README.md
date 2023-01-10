@@ -57,5 +57,32 @@ It is a library used with the JavaScript programming language in front-end devel
  <li>How do you update state in react?</li>
  <li>Can you return multiple element from a component?</li>
  <li>Describe Component Driven Development and how it applies in react</li>
- <li></li>
+ <li>provide an example implementation of the following components</li>
+  i.
 </ul> 
+<p> 6. Complete the following challenges </p>
+<p>a. </p>
+<p>b. </p>
+<p>c. </p>
+
+<p>7. What is typescript?</p>
+TypeScript is a superset of JavaScript, that is, a set of tools and more efficient ways to write JavaScript code, adding features that are not natively present in the language.
+<ul>
+  <li>What are the benefit of typescript?</li>
+  Typescript adds new functionality to JavaScript. JS, for example, does not allow you to create classes or work with modules, as its typing is dynamic, which can cause many errors. And these errors are not pointed out at the time of implementation.
+  <li>Provide positive and negative of typescript</li>
+  Negative: The creators of TypeScript designed the language and its tools to avoid some potential problems, but still, it's not pure JavaScript.
+  Positive: Typescript enhances the characteristics of JS. Because it has static typing, developing in TS ends up being safer, because while the application is being implemented, errors are identified, differently from what happens with JS.
+  <li>Provide a code snippet in both javascript and typescript</li>
+  JS: const product = {
+  id:  1,
+  name:  "glas",
+};
+  TypeScript -> interface Product {
+  id: number;
+  name: string;  
+}
+  <li>Fourth item</li>
+</ul>
+
+
