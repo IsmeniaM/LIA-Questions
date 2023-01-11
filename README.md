@@ -60,10 +60,6 @@ It is a library used with the JavaScript programming language in front-end devel
  <li>provide an example implementation of the following components</li>
   i.
 </ul> 
-<p> 6. Complete the following challenges </p>
-<p>a. </p>
-<p>b. </p>
-<p>c. </p>
 
 <p>7. What is typescript?</p>
 TypeScript is a superset of JavaScript, that is, a set of tools and more efficient ways to write JavaScript code, adding features that are not natively present in the language.
@@ -87,3 +83,15 @@ TypeScript is a superset of JavaScript, that is, a set of tools and more efficie
 <p> 8. What is a user Story?</p>
 User Stories are written specifications of how a person would use a product's functionality. <br>
 a. As a user I have to be able to Log in and Create a new account. When I created the account I have to be able to log in and save my password. 
+c. User stories helps to structur the project and in the development of new features.
+
+<p> 9. What is git?</p>
+Git is what make it easy to work offline or remotely because it is a distributed version control system.
+<p> a. Git Hooks are shell scripts that run automatically before or after Git executes an important command, such as “Commit” or “Push”. </p>
+<p>b. Conventional Commits is a simple commit message convention, which follows a set of rules and helps projects to have an explicit and well-structured commit history. Conventional Commits will make a project timeline more structured and easier to understand. </p>
+<p>c. git commit -m "created a new component and imported it into the the navbar component, the component shows up only when a user is logged and shows time left before the current session ends" </p>
+<p>10. What is Accessibility on the web why is it important?</p>
+Web accessibility means people with disabilities can use the web. More specifically, web accessibility means that people with disabilities can perceive, understand, navigate, interact with, and contribute to the web.
+<p>a. By building an accessible website, we ensure that the user experience is complete for everyone, eliminating barriers that make it difficult to navigate, understand, interact and contribute in the virtual world.</p>
+<p>b.Websites need to allow good navigation by the user. Therefore, he must feel in charge. Sites that automatically close after a certain period of time or that do not have good UX (User Experience) practices are not operable. </p>
+<p>A website must be robust, that is, be compatible with multiple devices and accommodate assistive technologies (resources used by people with disabilities to read or listen to content on the web).</p
